@@ -1,0 +1,564 @@
+[
+    {
+        "outputFile": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 53,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 109,
+                    "endColumn": 54,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 54,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 54,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 54,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 55,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 219,
+                        "endColumn": 55,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 54,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 54,
+                        "endOffset": 325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 55,
+                    "endOffset": 381
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 55,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 386,
+                    "endColumn": 55,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 55,
+                        "endOffset": 437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endColumn": 68,
+                    "endOffset": 506
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 68,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 511,
+                    "endColumn": 71,
+                    "endOffset": 578
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 511,
+                        "endColumn": 71,
+                        "endOffset": 578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2945,
+                    "endColumn": 63,
+                    "endOffset": 3004
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 2945,
+                        "endColumn": 63,
+                        "endOffset": 3004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 3009,
+                    "endColumn": 63,
+                    "endOffset": 3068
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 3009,
+                        "endColumn": 63,
+                        "endOffset": 3068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 3073,
+                    "endColumn": 46,
+                    "endOffset": 3115
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 3073,
+                        "endColumn": 46,
+                        "endOffset": 3115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 3120,
+                    "endColumn": 54,
+                    "endOffset": 3170
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 3120,
+                        "endColumn": 54,
+                        "endOffset": 3170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 3175,
+                    "endColumn": 56,
+                    "endOffset": 3227
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 3175,
+                        "endColumn": 56,
+                        "endOffset": 3227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 3232,
+                    "endColumn": 54,
+                    "endOffset": 3282
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 3232,
+                        "endColumn": 54,
+                        "endOffset": 3282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 3287,
+                    "endColumn": 37,
+                    "endOffset": 3320
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 3287,
+                        "endColumn": 37,
+                        "endOffset": 3320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3325,
+                    "endColumn": 39,
+                    "endOffset": 3360
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 3325,
+                        "endColumn": 39,
+                        "endOffset": 3360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3365,
+                    "endColumn": 42,
+                    "endOffset": 3403
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3365,
+                        "endColumn": 42,
+                        "endOffset": 3403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3408,
+                    "endColumn": 36,
+                    "endOffset": 3440
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3408,
+                        "endColumn": 36,
+                        "endOffset": 3440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3445,
+                    "endColumn": 43,
+                    "endOffset": 3484
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3445,
+                        "endColumn": 43,
+                        "endOffset": 3484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3489,
+                    "endColumn": 73,
+                    "endOffset": 3558
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3489,
+                        "endColumn": 73,
+                        "endOffset": 3558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3563,
+                    "endColumn": 113,
+                    "endOffset": 3672
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3563,
+                        "endColumn": 113,
+                        "endOffset": 3672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3677,
+                    "endColumn": 107,
+                    "endOffset": 3780
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3677,
+                        "endColumn": 107,
+                        "endOffset": 3780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3785,
+                    "endColumn": 60,
+                    "endOffset": 3841
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 3785,
+                        "endColumn": 60,
+                        "endOffset": 3841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3846,
+                    "endColumn": 65,
+                    "endOffset": 3907
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 3846,
+                        "endColumn": 65,
+                        "endOffset": 3907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3912,
+                    "endColumn": 63,
+                    "endOffset": 3971
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 3912,
+                        "endColumn": 63,
+                        "endOffset": 3971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3976,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 4262
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 3976,
+                        "endLine": 36,
+                        "endColumn": 12,
+                        "endOffset": 4262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4267,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 4422
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 4267,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 4422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4427,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 5252
+                },
+                "from": {
+                    "file": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 4427,
+                        "endLine": 52,
+                        "endColumn": 12,
+                        "endOffset": 5252
+                    }
+                }
+            }
+        ]
+    }
+]

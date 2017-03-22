@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="46447535850552" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\outputs\apk\shunJianMei_Hairdresser-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="46447535850552" >
+        <artifact
+            location="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\outputs\apk\shunJianMei_Hairdresser-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

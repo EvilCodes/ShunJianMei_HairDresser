@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\price_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\price_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_schedule_list.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\item_my_schedule_list.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_businessareastorylit.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\activity_businessareastorylit.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\feedback_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\feedback_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\uicomp_title_bar2.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\exploded-aar\\ShunJianMei_Hairdresser\\uIComp\\unspecified\\res\\layout\\uicomp_title_bar2.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\hair_manager_content_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\hair_manager_content_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\list_position.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\exploded-aar\\ShunJianMei_Hairdresser\\uIComp\\unspecified\\res\\layout\\list_position.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\photo_choose_dialog.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\exploded-aar\\ShunJianMei_Hairdresser\\ruitUtils\\unspecified\\res\\layout\\photo_choose_dialog.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\item_radiobutton_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\item_radiobutton_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\browser_activity_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\browser_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\hair_manager_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\hair_manager_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\schedule_my.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\schedule_my.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\home_activity_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\home_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\servicepackagefragment.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\servicepackagefragment.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\loading_view_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\exploded-aar\\ShunJianMei_Hairdresser\\uIComp\\unspecified\\res\\layout\\loading_view_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\materialget_fragment_list_item.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\materialget_fragment_list_item.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\content_frame.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\exploded-aar\\ShunJianMei_Hairdresser\\uIComp\\unspecified\\res\\layout\\content_frame.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\menu_frame.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\exploded-aar\\ShunJianMei_Hairdresser\\uIComp\\unspecified\\res\\layout\\menu_frame.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\reserve_listview_item_free_dialog.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\reserve_listview_item_free_dialog.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\me_information_scrollview_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\me_information_scrollview_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\me_scrollview_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\me_scrollview_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_fragment.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\welcome_fragment.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\datetimepickdialog.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\exploded-aar\\ShunJianMei_Hairdresser\\ruitUtils\\unspecified\\res\\layout\\datetimepickdialog.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\login_forget_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\login_forget_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\login_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\login_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\materialget_fragment_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\materialget_fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\materialget_spinneradapter.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\materialget_spinneradapter.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\modify_order_fragment.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\modify_order_fragment.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\item_hair_style_gv_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\item_hair_style_gv_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\mybalance_dialog_item_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\mybalance_dialog_item_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\layout_main.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\exploded-aar\\ShunJianMei_Hairdresser\\uIComp\\unspecified\\res\\layout\\layout_main.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\store_manager_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\store_manager_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\suibian.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\suibian.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\materialdoing_fragment_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\materialdoing_fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\mybalance_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\mybalance_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\add_image_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\exploded-aar\\ShunJianMei_Hairdresser\\ruitUtils\\unspecified\\res\\layout\\add_image_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\public_base_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\public_base_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\hair_style_detail_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\hair_style_detail_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\mybalance_listview_item_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\mybalance_listview_item_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\uicomp_title_bar_has_status.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\exploded-aar\\ShunJianMei_Hairdresser\\uIComp\\unspecified\\res\\layout\\uicomp_title_bar_has_status.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\datepickdialog.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\exploded-aar\\ShunJianMei_Hairdresser\\ruitUtils\\unspecified\\res\\layout\\datepickdialog.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\dailog_time_select.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\dailog_time_select.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\item_filter_popupwindow_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\item_filter_popupwindow_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\materialget_spinner_dropdown_item.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\materialget_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\me_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\me_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\empty_view.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\empty_view.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\withdraw_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\withdraw_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\ac_show_pic_main.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\ac_show_pic_main.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\businesslist_listview_item.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\businesslist_listview_item.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\evaluate_listview_item_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\evaluate_listview_item_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\materialdoing_listview_item.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\materialdoing_listview_item.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\exploded-aar\\ShunJianMei_Hairdresser\\ruitUtils\\unspecified\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_last_item.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\gridview_last_item.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\manager_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\manager_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\dailog_time_select_schedule_compile.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\dailog_time_select_schedule_compile.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\exploded-aar\\ShunJianMei_Hairdresser\\uIComp\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\schedulefragment_gridview_item.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\schedulefragment_gridview_item.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\exploded-aar\\ShunJianMei_Hairdresser\\uIComp\\unspecified\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\hair_style_manager_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\hair_style_manager_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\my_information_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\my_information_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\item_hair__style_code_item_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\item_hair__style_code_item_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\exploded-aar\\ShunJianMei_Hairdresser\\uIComp\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\hair_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\hair_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\evaluate_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\evaluate_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\schedule_manager_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\schedule_manager_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\filter_popupwindow_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\filter_popupwindow_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\uicomp_title_bar.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\exploded-aar\\ShunJianMei_Hairdresser\\uIComp\\unspecified\\res\\layout\\uicomp_title_bar.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_view.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\exploded-aar\\ShunJianMei_Hairdresser\\uIComp\\unspecified\\res\\layout\\calendar_view.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\evaluate_dialog_item_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\evaluate_dialog_item_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\uicomp_title_bar_red_bg.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\exploded-aar\\ShunJianMei_Hairdresser\\uIComp\\unspecified\\res\\layout\\uicomp_title_bar_red_bg.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\item_manager_list_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\item_manager_list_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\storedetail_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\storedetail_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\item_hair_style_detail_gv.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\item_hair_style_detail_gv.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\schedule_manager_view_item.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\schedule_manager_view_item.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\store_listview_item_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\store_listview_item_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\order_detail_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\order_detail_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\materialmanagement_activity_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\materialmanagement_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\materialdoing_listview_listview_item.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\materialdoing_listview_listview_item.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_list_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\item_order_list_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\order_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\order_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\schedule_setting_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\schedule_setting_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\uicomp_tishi_dialog.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\exploded-aar\\ShunJianMei_Hairdresser\\uIComp\\unspecified\\res\\layout\\uicomp_tishi_dialog.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_comment_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\item_order_comment_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\uicomp_message_dialog.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\exploded-aar\\ShunJianMei_Hairdresser\\uIComp\\unspecified\\res\\layout\\uicomp_message_dialog.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\build\\intermediates\\res\\merged\\debug\\layout\\schedule_compile_activity.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\shunJianMei_Hairdresser\\src\\main\\res\\layout\\schedule_compile_activity.xml"
+    }
+]

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShunJianMei_Hairdresser.iml" filepath="$PROJECT_DIR$/ShunJianMei_Hairdresser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruitUtils/ruitUtils.iml" filepath="$PROJECT_DIR$/ruitUtils/ruitUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shunJianMei_Hairdresser/shunJianMei_Hairdresser.iml" filepath="$PROJECT_DIR$/shunJianMei_Hairdresser/shunJianMei_Hairdresser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uIComp/uIComp.iml" filepath="$PROJECT_DIR$/uIComp/uIComp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xUtils/xUtils.iml" filepath="$PROJECT_DIR$/xUtils/xUtils.iml" />
+    </modules>
+  </component>
+</project>

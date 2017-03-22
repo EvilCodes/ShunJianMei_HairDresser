@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\datepickdialog.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\bundles\\debug\\res\\layout\\datepickdialog.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\add_image_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\bundles\\debug\\res\\layout\\add_image_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\photo_choose_dialog.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\bundles\\debug\\res\\layout\\photo_choose_dialog.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\datetimepickdialog.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\bundles\\debug\\res\\layout\\datetimepickdialog.xml"
+    }
+]

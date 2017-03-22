@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\res\\merged\\debug\\layout\\photo_choose_dialog.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\src\\main\\res\\layout\\photo_choose_dialog.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\res\\merged\\debug\\layout\\add_image_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\src\\main\\res\\layout\\add_image_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\res\\merged\\debug\\layout\\datetimepickdialog.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\src\\main\\res\\layout\\datetimepickdialog.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\res\\merged\\debug\\layout\\datepickdialog.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\src\\main\\res\\layout\\datepickdialog.xml"
+    }
+]

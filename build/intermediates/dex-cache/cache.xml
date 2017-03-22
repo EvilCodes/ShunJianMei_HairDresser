@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Tools\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_f1e93daa44ea7b11d79bbadd8f20d8ea43da5c13\classes.dex" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\libs\MobTools.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="729a7c1d26c5902662316960cf282647b8d81cab">
+        <dex dex="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\transforms\dex\debug\folders\1000\2\MobTools_e6c6193e8f8ea8f945bc6600f36be6609da339c0\classes.dex" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\libs\ShareSDK-QQ-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="26c991c29049a91e34eb78d260d5384437411f13">
+        <dex dex="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QQ-2.6.2_4058c9b768eed3c000ffd04cb303ec31141fbdb7\classes.dex" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\libs\ShareSDK-Core-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e44531695e0bcfd747ffbdda3f083b7b41a5fe14">
+        <dex dex="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Core-2.6.2_6c0299defd7ce0facdcc5fe8a5ad4c156672804f\classes.dex" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\libs\ShareSDK-Wechat-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6787c600dc12bb6f55a74150c3f06eddf72fb15c">
+        <dex dex="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-2.6.2_1b6114f21e122dac102d62a25b00cfcd265c54d7\classes.dex" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.3_c6596a5bb909032eba614b9145f065b3fd238e8f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.1\d8e711ae108185c59c17b36b3c3f11b20cf9b4d5\gson-2.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d8e711ae108185c59c17b36b3c3f11b20cf9b4d5">
+        <dex dex="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.1_5d4c4cccb7af1b68b63e9708c89456489837003e\classes.dex" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\libs\ShareSDK-QZone-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="53661a165bdf35b59961d314ba218681ff3a4980">
+        <dex dex="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QZone-2.6.2_decc17a2b7323434033c606149def45bb0685878\classes.dex" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\libs\jpush-sdk-release1.7.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="60e35f34d1a708714797b9de5f03380995b90ae7">
+        <dex dex="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\transforms\dex\debug\folders\1000\2\jpush-sdk-release1.7.5_2560418f9d4213c5efef1113483a2ed143a31a07\classes.dex" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\exploded-aar\ShunJianMei_Hairdresser\ruitUtils\unspecified\jars\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="84a3bad18da8866b428e8d7129317d0e65848863">
+        <dex dex="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\transforms\dex\debug\folders\1000\8\pinyin4j-2.5.0_21cc302ae010bd7b9450e6053145e7858a316886\classes.dex" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\libs\eventbus-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\transforms\dex\debug\folders\1000\2\eventbus-2.4.0_b60404e2ba2b1a85264ecf283895208dc8df429f\classes.dex" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b0691cd6912acc86f1e898480b5f3dd85befb0d2">
+        <dex dex="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a4e05a6fa936b9e1b1472c0ce28b2a48b6185a6b\classes.dex" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\libs\MobLogCollector.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c804b0e7238e94bb9c89381c90336116509473d7">
+        <dex dex="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\transforms\dex\debug\folders\1000\2\MobLogCollector_3351ddd1743f46fb68730f5f9ad3a37642ebc6cb\classes.dex" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\exploded-aar\ShunJianMei_Hairdresser\ruitUtils\unspecified\jars\libs\oruitkey-1.1-dec.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aef910da768a84d73ddf08281e193ee5fb65eaa6">
+        <dex dex="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\transforms\dex\debug\folders\1000\8\oruitkey-1.1-dec_d94982936f3008d4a48555a5f21220426c82d40b\classes.dex" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\libs\locSDK_6.13.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\transforms\dex\debug\folders\1000\2\locSDK_6.13_fbaaece858e1a5c67a609b3f0b7de1d38b436064\classes.dex" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3b5b26e7cfe0e13cddf48b900317f11fe5f31be5">
+        <dex dex="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f68fdaf4a00612c505b1f20333c26ef49935608b\classes.dex" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\libs\ShareSDK-Wechat-Moments-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="66cf77925130b635290f17b1497c96d6d6e89510">
+        <dex dex="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Moments-2.6.2_cf354f7749b6f1619a771185c15c5357554c7bf0\classes.dex" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\libs\umeng-analytics-v5.5.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5d503ec571e2e98d972209afa203f94d11882c15">
+        <dex dex="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-analytics-v5.5.3_7a7accbeafe40299df373b4aed22d178506884f3\classes.dex" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\libs\ShareSDK-SinaWeibo-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fa713e699e09f5f110760f12b4a46a9280d9524b">
+        <dex dex="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-SinaWeibo-2.6.2_3bfd1b2a4a14f7c16e11dc050682077912af674f\classes.dex" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ab02d39c8a90f8cea627e5a0581cae019f604fb0">
+        <dex dex="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_e0e5fee7e63a38038cc44f94f51960b4080488f0\classes.dex" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\libs\ShareSDK-Wechat-Core-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7c6b5fbbbaefb2ac4607c9c2944d5c0d408b4f7e">
+        <dex dex="E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Core-2.6.2_1a79fe89b9ec245ce765b5a0ad4d3b31c88f603f\classes.dex" />
+    </item>
+
+</items>

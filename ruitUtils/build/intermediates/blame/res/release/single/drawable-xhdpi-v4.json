@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\dot_grey.png",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\src\\main\\res\\drawable-xhdpi\\dot_grey.png"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\dot_light.png",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\src\\main\\res\\drawable-xhdpi\\dot_light.png"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\face_del_ico_pressed.png",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\src\\main\\res\\drawable-xhdpi\\face_del_ico_pressed.png"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\empty_photo.9.png",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\src\\main\\res\\drawable-xhdpi\\empty_photo.9.png"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\face_del_ico_dafeult.png",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\src\\main\\res\\drawable-xhdpi\\face_del_ico_dafeult.png"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\delete.png",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\src\\main\\res\\drawable-xhdpi\\delete.png"
+    }
+]

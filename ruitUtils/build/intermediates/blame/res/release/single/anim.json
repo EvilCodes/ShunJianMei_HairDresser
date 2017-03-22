@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\res\\merged\\release\\anim\\photo_dialog_in_anim.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\src\\main\\res\\anim\\photo_dialog_in_anim.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\build\\intermediates\\res\\merged\\release\\anim\\photo_dialog_out_anim.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\ruitUtils\\src\\main\\res\\anim\\photo_dialog_out_anim.xml"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\slidingmenumain.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\menu_frame.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\layout\\menu_frame.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_main.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_main.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\uicomp_tishi_dialog.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\layout\\uicomp_tishi_dialog.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\calendar_view.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\layout\\calendar_view.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\loading_view_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\layout\\loading_view_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\list_position.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\layout\\list_position.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\uicomp_title_bar2.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\layout\\uicomp_title_bar2.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\uicomp_message_dialog.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\layout\\uicomp_message_dialog.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\uicomp_title_bar_red_bg.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\layout\\uicomp_title_bar_red_bg.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\uicomp_title_bar_has_status.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\layout\\uicomp_title_bar_has_status.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\content_frame.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\layout\\content_frame.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\uicomp_title_bar.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei_Hairdresser\\uIComp\\build\\intermediates\\bundles\\debug\\res\\layout\\uicomp_title_bar.xml"
+    }
+]

@@ -1,0 +1,527 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:2:1-328:12
+	package
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:4:5-45
+		INJECTED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml
+		INJECTED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:6:5-31
+		INJECTED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml
+		INJECTED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml
+		INJECTED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [ShunJianMei_Hairdresser:xUtils:unspecified] E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\exploded-aar\ShunJianMei_Hairdresser\xUtils\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [ShunJianMei_Hairdresser:ruitUtils:unspecified] E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\exploded-aar\ShunJianMei_Hairdresser\ruitUtils\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [ShunJianMei_Hairdresser:xUtils:unspecified] E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\exploded-aar\ShunJianMei_Hairdresser\xUtils\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [ShunJianMei_Hairdresser:uIComp:unspecified] E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\exploded-aar\ShunJianMei_Hairdresser\uIComp\unspecified\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml
+		INJECTED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml
+		INJECTED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.INTERNET
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:19:5-74
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:19:22-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:20:22-68
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:21:5-69
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:21:22-66
+permission#cc.ruit.shunjianmeihairdresser.permission.JPUSH_MESSAGE
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:36:5-38:47
+	android:protectionLevel
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:38:9-44
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:37:9-79
+uses-permission#cc.ruit.shunjianmeihairdresser.permission.JPUSH_MESSAGE
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:40:5-95
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:40:22-92
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:41:5-79
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:41:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:43:5-68
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:43:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:46:5-80
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:46:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:47:5-66
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:47:22-63
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:48:5-84
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:48:22-81
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:50:5-78
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:50:22-75
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:51:5-73
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:51:22-70
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:54:5-81
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:54:22-78
+uses-permission#android.permission.ACCESS_COARSE_UPDATES
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:55:5-80
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:55:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:58:5-79
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:58:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:59:5-89
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:59:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:60:5-79
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:60:22-76
+application
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:64:5-326:19
+MERGED from [ShunJianMei_Hairdresser:ruitUtils:unspecified] E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\exploded-aar\ShunJianMei_Hairdresser\ruitUtils\unspecified\AndroidManifest.xml:11:5-28:19
+MERGED from [ShunJianMei_Hairdresser:uIComp:unspecified] E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\exploded-aar\ShunJianMei_Hairdresser\uIComp\unspecified\AndroidManifest.xml:11:5-15:19
+	android:label
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:69:9-41
+	android:allowBackup
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:66:9-35
+	android:icon
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:67:9-38
+		REJECTED from [ShunJianMei_Hairdresser:ruitUtils:unspecified] E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\exploded-aar\ShunJianMei_Hairdresser\ruitUtils\unspecified\AndroidManifest.xml:14:9-45
+	android:theme
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:70:9-40
+	tools:replace
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:68:9-51
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:65:9-59
+		REJECTED from [ShunJianMei_Hairdresser:ruitUtils:unspecified] E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\build\intermediates\exploded-aar\ShunJianMei_Hairdresser\ruitUtils\unspecified\AndroidManifest.xml:12:9-54
+activity#cc.ruit.shunjianmei.login.LoginActivity
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:73:9-84:20
+	android:screenOrientation
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:76:13-49
+	android:label
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:75:13-45
+	android:windowSoftInputMode
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:78:13-60
+	android:theme
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:77:13-72
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:74:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:79:13-83:29
+action#android.intent.action.MAIN
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:80:17-69
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:80:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:82:17-77
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:82:27-74
+activity#cc.ruit.shunjianmei.home.MainActivity
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:86:9-90:20
+	android:label
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:88:13-45
+	android:theme
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:89:13-72
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:87:13-65
+activity#cc.ruit.shunjianmei.home.schedule.ScheduleCompileActivity
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:92:9-100:20
+	android:screenOrientation
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:98:13-49
+	android:label
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:94:13-45
+	android:launchMode
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:95:13-44
+	android:windowSoftInputMode
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:96:13-72
+	android:configChanges
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:97:13-63
+	android:theme
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:99:13-72
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:93:13-85
+activity#cc.ruit.shunjianmei.home.schedule.ScheduleSettingActivity
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:102:9-108:20
+	android:screenOrientation
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:106:13-49
+	android:label
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:104:13-45
+	android:launchMode
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:105:13-44
+	android:theme
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:107:13-72
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:103:13-85
+activity#cc.ruit.shunjianmei.home.hairdressert.HairdresserActivity
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:110:9-116:20
+	android:screenOrientation
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:114:13-49
+	android:label
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:112:13-45
+	android:launchMode
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:113:13-44
+	android:theme
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:115:13-72
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:111:13-85
+activity#cc.ruit.shunjianmei.home.manager.ManagerActivity
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:118:9-124:20
+	android:screenOrientation
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:122:13-49
+	android:label
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:120:13-45
+	android:launchMode
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:121:13-44
+	android:theme
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:123:13-72
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:119:13-76
+activity#cc.ruit.shunjianmei.home.me.MyBalanceActivity
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:126:9-131:20
+	android:screenOrientation
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:129:13-49
+	android:label
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:128:13-45
+	android:theme
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:130:13-72
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:127:13-73
+activity#cc.ruit.shunjianmei.home.order.OrderActivity
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:133:9-138:20
+	android:screenOrientation
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:136:13-49
+	android:label
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:135:13-45
+	android:theme
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:137:13-72
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:134:13-72
+activity#cc.ruit.shunjianmei.home.me.EvaluateActivity
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:140:9-145:20
+	android:screenOrientation
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:143:13-49
+	android:label
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:142:13-45
+	android:theme
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:144:13-72
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:141:13-72
+activity#cc.ruit.shunjianmei.home.manager.material.MaterialManagementActivity
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:147:9-153:20
+	android:screenOrientation
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:151:13-49
+	android:label
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:149:13-45
+	android:launchMode
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:150:13-44
+	android:theme
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:152:13-72
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:148:13-96
+activity#cc.ruit.shunjianmei.home.me.feedback.FeedbackActivity
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:155:9-160:20
+	android:screenOrientation
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:158:13-49
+	android:label
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:157:13-45
+	android:theme
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:159:13-72
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:156:13-81
+activity#cc.ruit.shunjianmei.home.schedule.BusinessAreaStoreListActivity
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:162:9-167:20
+	android:screenOrientation
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:165:13-49
+	android:label
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:164:13-45
+	android:theme
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:166:13-72
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:163:13-91
+activity#cc.ruit.shunjianmei.home.BrowserActivity
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:169:9-175:20
+	android:screenOrientation
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:173:13-49
+	android:label
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:171:13-45
+	android:launchMode
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:172:13-44
+	android:theme
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:174:13-72
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:170:13-68
+activity#cc.ruit.shunjianmei.home.schedule.MyScheduleActivity
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:177:9-182:20
+	android:screenOrientation
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:180:13-49
+	android:label
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:179:13-45
+	android:theme
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:181:13-72
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:178:13-80
+activity#cc.ruit.shunjianmei.util.ForLargeImageActivity
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:184:9-189:20
+	android:screenOrientation
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:187:13-49
+	android:label
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:186:13-45
+	android:theme
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:188:13-72
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:185:13-74
+activity#com.mob.tools.MobUIShell
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:193:9-207:20
+	android:screenOrientation
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:196:13-49
+	android:windowSoftInputMode
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:198:13-67
+	android:configChanges
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:195:13-74
+	android:theme
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:197:13-72
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:194:13-52
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:199:13-206:29
+data
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:200:17-60
+	android:scheme
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:200:23-57
+action#android.intent.action.VIEW
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:202:17-69
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:202:25-66
+category#android.intent.category.BROWSABLE
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:204:17-78
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:204:27-75
+category#android.intent.category.DEFAULT
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:205:17-76
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:205:27-73
+activity#cc.ruit.shunjianmei.wxapi.WXEntryActivity
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:209:9-214:75
+	android:screenOrientation
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:213:13-49
+	android:exported
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:212:13-36
+	android:configChanges
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:211:13-74
+	android:theme
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:214:13-72
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:210:13-69
+activity#cn.jpush.android.ui.PushActivity
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:218:9-228:20
+	android:configChanges
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:220:13-63
+	android:theme
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:221:13-72
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:219:13-60
+intent-filter#android.intent.category.DEFAULT+cc.ruit.shunjianmeihairdresser+cn.jpush.android.ui.PushActivity
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:222:13-227:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:223:17-75
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:223:25-72
+category#cc.ruit.shunjianmeihairdresser
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:226:17-75
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:226:27-72
+service#cn.jpush.android.service.DownloadService
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:230:9-234:19
+	android:enabled
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:232:13-35
+	android:exported
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:233:13-37
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:231:13-68
+service#cn.jpush.android.service.PushService
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:237:9-247:19
+	android:enabled
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:239:13-35
+	android:exported
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:240:13-37
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:238:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:241:13-246:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:242:17-75
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:242:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:243:17-73
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:243:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:244:17-78
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:244:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:245:17-76
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:245:25-73
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:250:9-269:20
+	android:enabled
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:252:13-35
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:251:13-65
+intent-filter#cc.ruit.shunjianmeihairdresser+cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:253:13-257:29
+	android:priority
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:253:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:254:17-94
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:254:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:258:13-261:29
+action#android.intent.action.USER_PRESENT
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:259:17-77
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:259:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:260:17-79
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:260:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:263:13-268:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:264:17-78
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:264:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:265:17-80
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:265:25-77
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:272:9-75
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:272:19-72
+receiver#cc.ruit.shunjianmei.jpush.JPushReceiver
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:275:9-292:20
+	android:enabled
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:277:13-35
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:276:13-67
+intent-filter#cc.ruit.shunjianmeihairdresser+cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+cn.jpush.android.intent.UNREGISTRATION
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:278:13-291:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:279:17-79
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:279:25-76
+action#cn.jpush.android.intent.UNREGISTRATION
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:281:17-81
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:281:25-78
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:282:17-83
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:282:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:284:17-88
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:284:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:286:17-86
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:286:25-83
+action#cn.jpush.android.intent.CONNECTION
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:288:17-77
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:288:25-74
+meta-data#JPUSH_CHANNEL
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:295:9-297:40
+	android:value
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:297:13-37
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:296:13-41
+meta-data#JPUSH_APPKEY
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:299:9-301:56
+	android:value
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:301:13-53
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:300:13-40
+meta-data#UMENG_APPKEY
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:307:9-310:21
+	android:value
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:309:13-53
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:308:13-40
+meta-data#UMENG_CHANNEL
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:311:9-313:40
+	android:value
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:313:13-37
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:312:13-41
+service#com.baidu.location.f
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:316:9-320:19
+	android:enabled
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:318:13-35
+	android:process
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:319:13-38
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:317:13-48
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:323:9-325:56
+	android:value
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:325:13-53
+	android:name
+		ADDED from E:\StudioWorkSpace\O2O\client\AS\ShunJianMei_Hairdresser\shunJianMei_Hairdresser\src\main\AndroidManifest.xml:324:13-52
